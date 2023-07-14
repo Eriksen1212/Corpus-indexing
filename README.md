@@ -33,9 +33,13 @@ Back End - Python
 
 
 색인기(indexer) 구현
+
 • 색인기
+
 – 제공된 코퍼스를 역색인(inverted index) 구조로 만든다.
+
 • 색인어(index term) 추출
+
 – 색인어는 품사가 일반명사(NNG), 고유명사(NNP), 영어(SL), 숫자
 (SN), 한자(SH)인 형태소 및 이들이 동일 어절 내에서 결합된 형
 태로 간주
