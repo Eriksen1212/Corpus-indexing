@@ -56,11 +56,16 @@ Back End - Python
 ![image](https://github.com/Eriksen1212/Corpus-indexing/assets/112687286/61994b4a-dfbf-45e8-b900-6aaefbdfff11)
 
 용례검색기 구현
+
 • 용례 검색기
 – 사용자가 입력한 query가 포함된 문장을 출력
+
 – Query는 하나 이상의 단어(들)로 이루어질 수 있음
+
 – AND, OR 등의 Boolean 연산자를 고려한 검색
+
 • 예) 문제&해결
+
 – 질의처리(query processing): AND
 
 ![image](https://github.com/Eriksen1212/Corpus-indexing/assets/112687286/af158849-bea8-44cf-a558-ebe0814a3054)
